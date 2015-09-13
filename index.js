@@ -1,0 +1,1 @@
+exports.deploy = require('./lib/aws_deploy');

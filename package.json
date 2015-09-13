@@ -1,0 +1,19 @@
+{
+  "name": "deploy-utils",
+  "description": "Collection of commonly used deployment scripts",
+  "main": "./index.js",
+  "version": "0.0.1",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/makered/deploy-utils.git"
+  },
+  "author": "Ed Levin",
+  "license": "MIT",
+  "homepage": "https://github.com/makered/deploy-utils#readme",
+  "dependencies": {
+    "async": "^1.4.0",
+    "aws-sdk": "^2.2.0",
+    "console-ten": "0.0.5"
+  }
+}
