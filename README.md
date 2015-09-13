@@ -1,2 +1,2 @@
 # deploy-utils
-Collection on commonly used deployment scripts and tools
+Collection of commonly used deployment scripts and tools
